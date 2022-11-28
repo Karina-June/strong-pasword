@@ -1,5 +1,5 @@
 # strong-pasword
-creating stronger password for greater security 
+Creating stronger passwords for greater security.
 
 https://karina-june.github.io/strong-pasword/
 
