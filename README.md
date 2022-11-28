@@ -1,5 +1,5 @@
 # strong-pasword
-Creating stronger passwords for greater security.
+Creating stronger passwords for greater security. User will be asked a series of four questions on which type of password they are wanting to create. The password generator will then create a random password with what the user has selected. 
 
 https://karina-june.github.io/strong-pasword/
 
